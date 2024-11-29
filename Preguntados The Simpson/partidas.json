@@ -1,0 +1,19 @@
+[
+    {
+        "nombre": "Homero",
+        "puntaje": 100,
+        "vidas": 3,
+        "fecha": "2024-11-27"
+    },
+    {
+        "nombre": "Bart",
+        "puntaje": 150,
+        "vidas": 2,
+        "fecha": "2024-11-26"
+    },
+    {
+        "nombre": "Pepe",
+        "puntaje": 20,
+        "fecha": "2024-11-29 15:41:52"
+    }
+]
